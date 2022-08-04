@@ -21,8 +21,17 @@ When adding a new project to the listing, please copy and paste the template bel
 **Description of project**: [The goal of the project is to create a predictive model to identify fMRI signals associated with the viewing of social and nonsocial naturalistic images. Stimuli and fMRI data were obtained from the Natural Scenes Dataset (Allen, St-Yves, Wu, Breedlove, Prince, Dowdle, Nau, Caron, Pestilli, Charest, Hutchinson, Naselaris*, & Kay*. A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence. Nature Neuroscience (2022).)]\
 **How to get involved**: Email avery-vandewater@uiowa.edu
 
+<<<<<<< HEAD
 **Name**: NSD Memory and Connectivity<a name="nsdMemConn"></a>\
 **Project url(s)**: [GitHub](https://github.com/mjstarrett/nsdMemConn), [Presentation Slides](https://docs.google.com/presentation/d/1ZOEUpSm1Qk9ObNv7ggyarLrJqXC6BWBmwrWc0-ETBgY/edit?usp=sharing), [Natural Scenes Dataset](https://natural-scenes-dataset.s3.amazonaws.com/index.html) \
 **Contributors**: [Jeanne Barthélemy](https://github.com/Gaerdil), [Rhideeta Jalal](https://github.com/rhijalal), [Jessica Kraft](https://github.com/jessicankraft), [Yutong Li](https://github.com/yutongyutongli), [Zhen-Qi Liu](https://github.com/liuzhenqi77), [Jacqueline Quirke](https://github.com/dequirkepalatis), [Kirsten Rhittershofer](https://github.com/KirstenRittershofer), [Karen Shen](https://github.com/KarenShen21), [Mike Starrett Ambrose](https://github.com/mjstarrett), [Haley Wang](https://github.com/Haley-R-Wang) \
 **Description of project**: Our project aims to explore the cognitive and neural mechanisms underlying encoding and recognition (familiarity) memory processes. To this end, we have begun analzying data from the Natural Scenes Dataset (NSD). We aim to analyze behavioral performance using signal detection approaches to characterize memory function and associated effects on reaction times. We are also conducting task-based analyses including functional connectivity (using resting state to test our framework) and multivariate classification using linear support vector machines and convolutional neural networks. ROIs of interest include hippocampus, retrosplenial cortex, and whole brain data.\
 **How to get involved**: To-date, we have used a branching workflow. You may access the public GitHub repository (listed above), clone it, contribute and initiate a pull request to merge your changes into the main analysis pipeline.  
+=======
+
+**Name**: fsub-extractor\
+**Project url(s)**: [Github Repo](https://github.com/smeisler/fsub-extractor)\
+**Contributors**: [Steven Meisler](https://github.com/smeisler), [Emily Kubota](https://github.com/emilykubota), [Chenying Zhao](https://github.com/zhao-cy), [Alicja Olszewska](https://gitub.com/alice-in-coderland), [Hamsi Radhakrishnan](https://github.com/hamsiradhakrishnan), [Brad Caron](https://github.com/bacaron), [Drew Winters](https://github.com/drewwint), [Daniela Cossio](https://github.com/dcossio), [McKenzie Paige Hagen](https://github.com/mckenziephagen), [Tashrif Billah](https://github.com/tashrifbillah)\
+**Description of project**: Software that functionally segments white matter connections to generate task-specific subcomponents of fiber bundles.\
+**How to get involved**: Post an issue or submit a PR. 
+>>>>>>> 02c4aee2c8fd2cefa134f5e512572132b2aabd89
