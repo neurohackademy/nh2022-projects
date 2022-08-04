@@ -21,8 +21,8 @@ When adding a new project to the listing, please copy and paste the template bel
 **How to get involved**: Email avery-vandewater@uiowa.edu
 
 
-Name: fsub-extractor\
-Project url(s): [Github Repo](https://github.com/smeisler/fsub-extractor)\
-Contributors: [Steven Meisler](https://github.com/smeisler), [Emily Kubota](https://github.com/emilykubota), [Chenying Zhao](https://github.com/zhao-cy), [Alicja Olszewska](https://gitub.com/alice-in-coderland), [Hamsi Radhakrishnan](https://github.com/hamsiradhakrishnan), [Brad Caron](https://github.com/bacaron), [Drew Winter](https://github.com/drewwint), [Daniela Cossio](https://github.com/dcossio), [McKenzie Paige Hagen](https://github.com/mckenziephagen), [Tashrif Billah](https://github.com/tashrifbillah)\
-Description of project: Software that functionally segments white matter connections to generate task-specific subcomponents of fiber bundles.\
-How to get involved: Post an issue or submit a PR. 
+**Name**: fsub-extractor\
+**Project url(s)**: [Github Repo](https://github.com/smeisler/fsub-extractor)\
+**Contributors**: [Steven Meisler](https://github.com/smeisler), [Emily Kubota](https://github.com/emilykubota), [Chenying Zhao](https://github.com/zhao-cy), [Alicja Olszewska](https://gitub.com/alice-in-coderland), [Hamsi Radhakrishnan](https://github.com/hamsiradhakrishnan), [Brad Caron](https://github.com/bacaron), [Drew Winter](https://github.com/drewwint), [Daniela Cossio](https://github.com/dcossio), [McKenzie Paige Hagen](https://github.com/mckenziephagen), [Tashrif Billah](https://github.com/tashrifbillah)\
+**Description of project**: Software that functionally segments white matter connections to generate task-specific subcomponents of fiber bundles.\
+**How to get involved**: Post an issue or submit a PR. 
