@@ -54,3 +54,17 @@ When adding a new project to the listing, please copy and paste the template bel
 **Contributors**: [Max van den Boom](https://github.com/MaxvandenBoom), [Jiyan Shin](https://github.com/jiyunshin), [Romina Ambrosini](https://github.com/ramonitzzz), [Zach Ladwig](https://github.com/zachladwig), [Bram Diamond](https://github.com/Bramdiamond), [Bert Liu](https://github.com/bertpt), [Liberty Hamilson](https://github.com/libertyh)\
 **Description of project**: Comparison of functional connectivity, as measured by iEEG and fMRI, in the same subjects watching the same movies. Findings are [controversial](https://www.nature.com/articles/s41598-020-57915-w).
 **How to get involved**: Talk to Max van den Boom or drop by Alder 105.
+
+### Seeing the Unseen: The case for biological motion and social relationship
+**Project url(s)**: [Github Repo](https://github.com/sajjadtorabian/nsdunseen)\
+**Contributors**: [Sajjad Torabian](https://github.com/sajjadtorabian), [Setayesh Radkani](https://github.com/sradkani)\
+**Description of project**: Using images from the Natural Scenes Dataset, we investigated the neural representations of
+implied motion and social relationship. We manually annotated the images and performed analyses of SVM classification & Representational Similarity Analysis (RSA).\
+**How to get involved**: Interested in getting involved? Submit a pull request!
+
+### Paranormal-events
+**Name**: Paranormal-events\
+**Project url(s)**: [Github Repo](https://github.com/jahchwe/nh-paranoia.git)\
+**Contributors**: [John Andrew Chwe](https://github.com/hjweric), [Ana Fouto](https://github.com/anarfouto), [Jiawen Huang](https://github.com/hjweric), [Clara Sava-Segal](https://github.com/csavasegal)\
+**Description of project**: Previous research have shown a link between individual variations in brain activity to clinical traits [1](https://www.nature.com/articles/s41467-018-04387-2). For example, individuals that shared clinical traits should process information more similarly. Researchers examined trait level paranoia in this [dataset](https://gin.g-node.org/ljchang/Paranoia) and then had individuals listen to a paranoid-inducing scenario in the scanner, finding that persons with comparable degrees of trait level paranoia processed information in similar ways. This study served as a proof of concept that clinical traits could be linked to neural information processing. There is also evidence that participants chunk continuous stimuli into discrete chunks, and recent algorithms can model the switching between event states. In this project, we aimed to apply such techniques to assess whether clinical traits can be linked to event segmentation, such that individuals more similar in trait paranoia demonstrate more similar event boundaries.\
+**How to get involved**: Post an issue or submit a PR. 
