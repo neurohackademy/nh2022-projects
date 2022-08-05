@@ -38,7 +38,7 @@ When adding a new project to the listing, please copy and paste the template bel
 **Description of project**: A step-by-step pipeline for using NiMARE Python package for neuroimaging meta-analysis. The project shows functionality of NiMARE and sample (basic/undergoing) meta-analysis results of fMRI studies regarding dementia. Additionally, during the Neurohackademy I created a list ([SORTED](https://github.com/PTDZ/SORTED)) of interesting neuroscience ideas, tools and links (the idea was born out of Slack discussions with other participants) that will (hopefully) be updated on an ongoing basis and can serve neuroscience community (especially MSc/PhD students and postdocs).\
 **How to get involved**: Post an issue or submit a PR.
 
-**Name**: nsd-fsavg\
+**Name**: nsdfsavg\
 **Project url(s)**: [Github Repo](https://github.com/ana-nv/nsd_fsavg)\
 **Contributors**: [Ana Arsenovic](https://github.com/ana-nv)\
 **Description of project**: The goal of this project is to investigate the reliability of Freesurfer outputs in individual subjects in the Natural Scenes Dataset (NSD; [Allen et al., 2022](https://doi.org/10.1038/s41593-021-00962-x)). The dataset contains in total 8 subjects with multiple 0.8 mm T1 acquisitions each (ranging from 4 to 10). NSD Data Manual is available [here](https://cvnlab.slite.com/p/CT9Fwl4_hc/NSD-Data-Manual).\
