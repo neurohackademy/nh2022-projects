@@ -2,7 +2,6 @@
 # NeuroHackademy 2022 projects
 
 ## Project template
-
 When adding a new project to the listing, please copy and paste the template below.
 
 ### [project name]
@@ -62,3 +61,15 @@ implied motion and social relationship. We manually annotated the images and per
 **Contributors**: [John Andrew Chwe](https://github.com/hjweric), [Ana Fouto](https://github.com/anarfouto), [Jiawen Huang](https://github.com/hjweric), [Clara Sava-Segal](https://github.com/csavasegal)\
 **Description of project**: Previous research have shown a link between individual variations in brain activity to clinical traits [1](https://www.nature.com/articles/s41467-018-04387-2). For example, individuals that shared clinical traits should process information more similarly. Researchers examined trait level paranoia in this [dataset](https://gin.g-node.org/ljchang/Paranoia) and then had individuals listen to a paranoid-inducing scenario in the scanner, finding that persons with comparable degrees of trait level paranoia processed information in similar ways. This study served as a proof of concept that clinical traits could be linked to neural information processing. There is also evidence that participants chunk continuous stimuli into discrete chunks, and recent algorithms can model the switching between event states. In this project, we aimed to apply such techniques to assess whether clinical traits can be linked to event segmentation, such that individuals more similar in trait paranoia demonstrate more similar event boundaries.\
 **How to get involved**: Post an issue or submit a PR. 
+
+**Name**: MLPtryout \
+**Project url**: [Github Repo](https://github.com/jainraj/NHA2022_AOMIC_ID1000), 
+[Presentation Slides](https://docs.google.com/presentation/d/1czKlH6IrxgNrRdXoZVuyZBiePFRADY7BG2U4WgOjBmc/edit#slide=id.p), 
+[AOMIC Dataset](https://nilab-uva.github.io/AOMIC.github.io/) \
+**Contributors**: [Raj V Jain](https://github.com/jainraj), [Selin Topel](https://github.com/sselint), 
+[Maïwenn Fleig](https://github.com/mightymai), [Woon Ju Park](https://github.com/woonjupark), 
+[Chelsea Xu](https://github.com/cherruc), [Nadine Spychala](https://github.com/nadinespy) \
+**Description of project**: AOMIC-ID1000 contains about 1000 subjects which have done a video viewing task. They have 
+fMRI signals, T1w images, physiology data and a battery of tests outside the scanner. We have two aims. One is to predict 
+the audio features from fMRI and anatomical features. Other is to predict out-of-scanner scores. \
+**How to get involved**: Post an issue or submit a PR.
