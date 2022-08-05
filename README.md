@@ -4,6 +4,7 @@
 * [Project template](#project-template): Template to use when creating new projects
 * [nsdsocnonsoc](#nsdsocnonsoc)
 * [NSD Memory & Connectivity](#nsdMemConn)
+* [MLPtryout](#MLPtryout)
 
 ### Project template
 When adding a new project to the listing, please copy and paste the template below.
@@ -42,4 +43,16 @@ When adding a new project to the listing, please copy and paste the template bel
 **Project url(s)**: [Github Repo](https://github.com/ana-nv/nsd_fsavg)\
 **Contributors**: [Ana Arsenovic](https://github.com/ana-nv)\
 **Description of project**: The goal of this project is to investigate the reliability of Freesurfer outputs in individual subjects in the Natural Scenes Dataset (NSD; [Allen et al., 2022](https://doi.org/10.1038/s41593-021-00962-x)). The dataset contains in total 8 subjects with multiple 0.8 mm T1 acquisitions each (ranging from 4 to 10). NSD Data Manual is available [here](https://cvnlab.slite.com/p/CT9Fwl4_hc/NSD-Data-Manual).\
+**How to get involved**: Post an issue or submit a PR.
+
+**Name**: MLPtryout \
+**Project url**: [Github Repo](https://github.com/jainraj/NHA2022_AOMIC_ID1000), 
+[Presentation Slides](https://docs.google.com/presentation/d/1czKlH6IrxgNrRdXoZVuyZBiePFRADY7BG2U4WgOjBmc/edit#slide=id.p), 
+[AOMIC Dataset](https://nilab-uva.github.io/AOMIC.github.io/) \
+**Contributors**: [Raj V Jain](https://github.com/jainraj), [Selin Topel](https://github.com/sselint), 
+[Maïwenn Fleig](https://github.com/mightymai), [Woon Ju Park](https://github.com/woonjupark), 
+[Chelsea Xu](https://github.com/cherruc), [Nadine Spychala](https://github.com/nadinespy) \
+**Description of project**: AOMIC-ID1000 contains about 1000 subjects which have done a video viewing task. They have 
+fMRI signals, T1w images, physiology data and a battery of tests outside the scanner. We have two aims. One is to predict 
+the audio features from fMRI and anatomical features. Other is to predict out-of-scanner scores. \
 **How to get involved**: Post an issue or submit a PR.
