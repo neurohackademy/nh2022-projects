@@ -49,3 +49,9 @@ When adding a new project to the listing, please copy and paste the template bel
 **Description of project**: A resource hub for [ABCD](https://abcdstudy.org/scientists/) researchers filled with frequently asked questions, code troubleshooting, archived Slack or related message board threads from past workshops, and associated tweets.\
 **How to get involved**: Submit a pull request! 🙏
 
+### Seeing the Unseen: The case for biological motion and social relationship
+**Project url(s)**: [Github Repo](https://github.com/sajjadtorabian/nsdunseen)\
+**Contributors**: [Sajjad Torabian](https://github.com/sajjadtorabian), [Setayesh Radkani](https://github.com/sradkani)\
+**Description of project**: Using images from the Natural Scenes Dataset, we investigated the neural representations of
+implied motion and social relationship. We manually annotated the images and performed analyses of SVM classification & Representational Similarity Analysis (RSA).\
+**How to get involved**: Interested in getting involved? Submit a pull request!
