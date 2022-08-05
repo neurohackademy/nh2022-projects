@@ -79,3 +79,9 @@ implied motion and social relationship. We manually annotated the images and per
 fMRI signals, T1w images, physiology data and a battery of tests outside the scanner. We have two aims. One is to predict 
 the audio features from fMRI and anatomical features. Other is to predict out-of-scanner scores. \
 **How to get involved**: Post an issue or submit a PR.
+
+**Name**: Connectome Harmonics \
+**Project url**: [GitHub repp] (https://github.com/sai-del-cielo/connectome-harmonics)\
+**Contributors**: [Sai Kiersarsky](https://github.com/sai-del-cielo), [Artur Paulo](https://github.com/arturjpaulo), [Chrystal Dragonflame](https://github.com/chrystaldragonflame), [Ramon Xulvi-Brunet](https://github.com/raxulbru), [Brent McPherson](https://github.com/bcmcpher), [Luis Fernando Fontoura](https://github.com/lfernandof), [Thiti Premrudeepreechacharn](https://github.com/tpremrud) \
+**Description of project**: Connectome harmonics is a frequency-speciﬁc representation of cortical organization. Here, we study how connectome-harmonics change with age.\
+**How to get involved**: Submit a pull request!
