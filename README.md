@@ -80,7 +80,7 @@ fMRI signals, T1w images, physiology data and a battery of tests outside the sca
 the audio features from fMRI and anatomical features. Other is to predict out-of-scanner scores. \
 **How to get involved**: Post an issue or submit a PR.
 
-### Connetome-Harmonics
+### Connectome-Harmonics
 **Name**: Connectome Harmonics \
 **Project url**: [GitHub repp] (https://github.com/sai-del-cielo/connectome-harmonics)\
 **Contributors**: [Sai Kiersarsky](https://github.com/sai-del-cielo), [Artur Paulo](https://github.com/arturjpaulo), [Chrystal Dragonflame](https://github.com/chrystaldragonflame), [Ramon Xulvi-Brunet](https://github.com/raxulbru), [Brent McPherson](https://github.com/bcmcpher), [Luis Fernando Fontoura](https://github.com/lfernandof), [Thiti Premrudeepreechacharn](https://github.com/tpremrud) \
