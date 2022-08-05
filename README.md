@@ -49,3 +49,10 @@ When adding a new project to the listing, please copy and paste the template bel
 **Description of project**: A resource hub for [ABCD](https://abcdstudy.org/scientists/) researchers filled with frequently asked questions, code troubleshooting, archived Slack or related message board threads from past workshops, and associated tweets.\
 **How to get involved**: Submit a pull request! 🙏
 
+### Paranormal-events
+**Name**: Paranormal-events\
+**Project url(s)**: [Github Repo](https://github.com/jahchwe/nh-paranoia.git)\
+**Contributors**: [John Andrew Chwe](https://github.com/hjweric), [Ana Fouto](https://github.com/anarfouto), [Jiawen Huang](https://github.com/hjweric), [Clara Sava-Segal](https://github.com/csavasegal)\
+**Description of project**: Previous research have shown a link between individual variations in brain activity to clinical traits [1](https://www.nature.com/articles/s41467-018-04387-2). For example, individuals that shared clinical traits should process information more similarly. Researchers examined trait level paranoia in this [dataset](https://gin.g-node.org/ljchang/Paranoia) and then had individuals listen to a paranoid-inducing scenario in the scanner, finding that persons with comparable degrees of trait level paranoia processed information in similar ways. This study served as a proof of concept that clinical traits could be linked to neural information processing. There is also evidence that participants chunk continuous stimuli into discrete chunks, and recent algorithms can model the switching between event states. In this project, we aimed to apply such techniques to assess whether clinical traits can be linked to event segmentation, such that individuals more similar in trait paranoia demonstrate more similar event boundaries.\
+**How to get involved**: Post an issue or submit a PR. 
+
