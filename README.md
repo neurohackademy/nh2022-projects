@@ -50,8 +50,8 @@ When adding a new project to the listing, please copy and paste the template bel
 
 ### iEEG fMRI Movie
 **Project url(s)**: [Repo](https://github.com/MaxvandenBoom/ieegmovie)\
-**Contributors**: [Max van den Boom](https://github.com/MaxvandenBoom), [Jiyan Shin](https://github.com/jiyunshin), [Romina Ambrosini](https://github.com/ramonitzzz), [Zach Ladwig](https://github.com/zachladwig), [Bram Diamond](https://github.com/Bramdiamond), [Bert Liu](https://github.com/bertpt), [Liberty Hamilson](https://github.com/libertyh)\
-**Description of project**: Comparison of functional connectivity, as measured by iEEG and fMRI, in the same subjects watching the same movies. Findings are [controversial](https://www.nature.com/articles/s41598-020-57915-w).
+**Contributors**: [Max van den Boom](https://github.com/MaxvandenBoom), [Jiyun Shin](https://github.com/jiyunshin), [Romina Ambrosini](https://github.com/ramonitzzz), [Zach Ladwig](https://github.com/zachladwig), [Bram Diamond](https://github.com/Bramdiamond), [Bert Liu](https://github.com/bertpt), [Liberty Hamilton](https://github.com/libertyh)\
+**Description of project**: Comparison of functional connectivity, as measured by iEEG and fMRI, in the same subjects watching the same movies. Findings are [controversial](https://www.nature.com/articles/s41598-020-57915-w). Presentation slides are located [here](https://docs.google.com/presentation/d/1BLL69WJY-Xzg5f5-O-9DeRsEWpqMaVfCsfeeSQOtsjs/edit?usp=sharing).
 **How to get involved**: Talk to Max van den Boom or drop by Alder 105.
 
 ### Seeing the Unseen: The case for biological motion and social relationship
